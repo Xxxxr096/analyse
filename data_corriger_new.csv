@@ -1,0 +1,14 @@
+Nom;Prenom;Age;Tranche_age;Wall_test_LSI;Side_hop_LSI;Decolle_talon_LSI;Assis_debout_LSI;Y_balance_LSI;Target_Wall_test_max;Target_Side_hop_min;Target_Decolle_talon_min;Target_Assis_debout_min;Target_Y_balance_min
+CANARD;Fanny;34;30-39;11;15;12;28;1;11.3;32;29;22;21
+CAPRON;Enrique;43;40-49;13;7;0;12;12;10;40;29;22;21
+CHAMBAT;Thibaut;41;40-49;15;30;5;24;2;10.3;34;23;22;21
+COMTE;Valentin;23;16-29;9;10;14;4;1;10.1;40;29;22;21
+DARGAUD;Laurence;46;40-49;5;10;0;0;4;10;19;21;22;21
+DUCAROUGE;Emmanuel;40;40-49;58;46;24;35;2;4.4;24;23;13;21
+DUCROSIET;Pierre;52;50;14;50;5;13;6;11.2;12;20;14;21
+DUFOUR;Angélique;42;40-49;20;74;25;84;4;8.8;9;18;5;21
+GRIVOT;Nicolas;42;40-49;6;0;25;40;1;8.7;40;15;9;21
+IAFRATI;Kévin;36;30-39;37;27;24;32;5;6.3;40;29;22;21
+MARRHIC;Laurent;51;50;14;20;5;0;8;9;12;23;12;21
+SCHAFFER;Thierry;49;40-49;6;9;12;4;3;10.7;40;29;22;21
+THEVENET;Clément;30;30-39;25;22;13;0;5;9;36;21;22;21
